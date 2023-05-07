@@ -1,0 +1,21 @@
+********** START ************
+
+https://www.npmjs.com/package/qckwinsvc
+
+npm install qckwinsvc -g
+
+qckwinsvc --name "api-firebird" --description "Start Api Firebird" --script "server.js" --startImmediately
+
+
+********* policys **********************
+
+Get-ExecutionPolicy
+Set-ExecutionPolicy RemoteSigned
+
+
+********* firebird.conf **********************
+
+AuthServer = Srp, Legacy_Auth
+AuthClient = Srp, Srp256, Win_Sspi, Legacy_Auth #Windows clients
+WireCrypt = enable
+UserManager = Legacy_UserManager

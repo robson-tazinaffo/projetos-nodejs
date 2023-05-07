@@ -1,0 +1,80 @@
+2023-05-06 00:54:00 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\api_firebird\server.js --log "api-firebird wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-06 00:54:00 - Started 5540
+2023-05-06 01:08:03 - Stopping apifirebird.exe
+2023-05-06 01:08:03 - ProcessKill 5540
+2023-05-06 01:08:04 - Found child process: 5564 Name: conhost.exe
+2023-05-06 01:08:04 - Found child process: 5644 Name: node.exe
+2023-05-06 01:08:04 - Stopping process 5564
+2023-05-06 01:08:04 - Send SIGINT 5564
+2023-05-06 01:08:04 - SIGINT to 5564 failed - Killing as fallback
+2023-05-06 01:08:04 - Stopping process 5644
+2023-05-06 01:08:04 - Send SIGINT 5644
+2023-05-06 01:08:04 - SIGINT to 5644 failed - Killing as fallback
+2023-05-06 01:08:04 - Stopping process 5540
+2023-05-06 01:08:04 - Send SIGINT 5540
+2023-05-06 01:08:04 - SIGINT to 5540 failed - Killing as fallback
+2023-05-06 01:08:04 - Finished apifirebird.exe
+2023-05-06 01:09:10 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\api_firebird\server.js --log "api-firebird wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-06 01:09:10 - Started 5784
+2023-05-06 01:12:11 - Stopping apifirebird.exe
+2023-05-06 01:12:11 - ProcessKill 5784
+2023-05-06 01:12:12 - Found child process: 2132 Name: conhost.exe
+2023-05-06 01:12:12 - Found child process: 2976 Name: node.exe
+2023-05-06 01:12:12 - Stopping process 2132
+2023-05-06 01:12:12 - Send SIGINT 2132
+2023-05-06 01:12:12 - SIGINT to 2132 failed - Killing as fallback
+2023-05-06 01:12:12 - Stopping process 2976
+2023-05-06 01:12:12 - Send SIGINT 2976
+2023-05-06 01:12:12 - SIGINT to 2976 failed - Killing as fallback
+2023-05-06 01:12:12 - Stopping process 5784
+2023-05-06 01:12:12 - Send SIGINT 5784
+2023-05-06 01:12:12 - SIGINT to 5784 failed - Killing as fallback
+2023-05-06 01:12:12 - Finished apifirebird.exe
+2023-05-06 01:12:22 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\api_firebird\server.js --log "api-firebird wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-06 01:12:22 - Started 5868
+2023-05-06 01:23:10 - Stopping apifirebird.exe
+2023-05-06 01:23:10 - ProcessKill 5868
+2023-05-06 01:23:10 - Found child process: 356 Name: conhost.exe
+2023-05-06 01:23:10 - Found child process: 5424 Name: node.exe
+2023-05-06 01:23:10 - Stopping process 356
+2023-05-06 01:23:10 - Send SIGINT 356
+2023-05-06 01:23:10 - SIGINT to 356 failed - Killing as fallback
+2023-05-06 01:23:10 - Stopping process 5424
+2023-05-06 01:23:10 - Send SIGINT 5424
+2023-05-06 01:23:10 - SIGINT to 5424 failed - Killing as fallback
+2023-05-06 01:23:10 - Stopping process 5868
+2023-05-06 01:23:10 - Send SIGINT 5868
+2023-05-06 01:23:10 - SIGINT to 5868 failed - Killing as fallback
+2023-05-06 01:23:10 - Finished apifirebird.exe
+2023-05-06 01:23:15 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\api_firebird\server.js --log "api-firebird wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-06 01:23:15 - Started 1752
+2023-05-06 01:25:06 - Stopping apifirebird.exe
+2023-05-06 01:25:06 - ProcessKill 1752
+2023-05-06 01:25:06 - Found child process: 452 Name: conhost.exe
+2023-05-06 01:25:06 - Found child process: 5728 Name: node.exe
+2023-05-06 01:25:06 - Stopping process 452
+2023-05-06 01:25:06 - Send SIGINT 452
+2023-05-06 01:25:06 - SIGINT to 452 failed - Killing as fallback
+2023-05-06 01:25:06 - Stopping process 5728
+2023-05-06 01:25:06 - Send SIGINT 5728
+2023-05-06 01:25:06 - SIGINT to 5728 failed - Killing as fallback
+2023-05-06 01:25:06 - Stopping process 1752
+2023-05-06 01:25:06 - Send SIGINT 1752
+2023-05-06 01:25:06 - SIGINT to 1752 failed - Killing as fallback
+2023-05-06 01:25:06 - Finished apifirebird.exe
+2023-05-06 01:25:56 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\api_firebird\server.js --log "api-firebird wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-06 01:25:56 - Started 5716
+2023-05-06 01:27:46 - Stopping apifirebird.exe
+2023-05-06 01:27:46 - ProcessKill 5716
+2023-05-06 01:27:47 - Found child process: 5440 Name: conhost.exe
+2023-05-06 01:27:47 - Found child process: 5784 Name: node.exe
+2023-05-06 01:27:47 - Stopping process 5440
+2023-05-06 01:27:47 - Send SIGINT 5440
+2023-05-06 01:27:47 - SIGINT to 5440 failed - Killing as fallback
+2023-05-06 01:27:47 - Stopping process 5784
+2023-05-06 01:27:47 - Send SIGINT 5784
+2023-05-06 01:27:47 - SIGINT to 5784 failed - Killing as fallback
+2023-05-06 01:27:47 - Stopping process 5716
+2023-05-06 01:27:47 - Send SIGINT 5716
+2023-05-06 01:27:47 - SIGINT to 5716 failed - Killing as fallback
+2023-05-06 01:27:47 - Finished apifirebird.exe
