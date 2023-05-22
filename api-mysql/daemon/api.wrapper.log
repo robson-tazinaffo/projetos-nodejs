@@ -1,0 +1,52 @@
+2023-05-05 22:48:28 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\api\server.js --log "api wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-05 22:48:28 - Started 6196
+2023-05-05 23:09:39 - Stopping api.exe
+2023-05-05 23:09:39 - ProcessKill 6196
+2023-05-05 23:09:39 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-05 23:10:34 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\api\server.js --log "api wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-05 23:10:34 - Started 2920
+2023-05-05 23:15:31 - Stopping api.exe
+2023-05-05 23:15:31 - ProcessKill 2920
+2023-05-05 23:15:32 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-05 23:16:16 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\api\server.js --log "api wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-05 23:16:17 - Started 2924
+2023-05-06 00:50:09 - Stopping api.exe
+2023-05-06 00:50:09 - ProcessKill 2924
+2023-05-06 00:50:10 - Found child process: 2932 Name: conhost.exe
+2023-05-06 00:50:10 - Found child process: 2832 Name: node.exe
+2023-05-06 00:50:10 - Stopping process 2932
+2023-05-06 00:50:10 - Send SIGINT 2932
+2023-05-06 00:50:10 - SIGINT to 2932 failed - Killing as fallback
+2023-05-06 00:50:10 - Stopping process 2832
+2023-05-06 00:50:10 - Send SIGINT 2832
+2023-05-06 00:50:10 - SIGINT to 2832 failed - Killing as fallback
+2023-05-06 00:50:10 - Stopping process 2924
+2023-05-06 00:50:10 - Send SIGINT 2924
+2023-05-06 00:50:10 - SIGINT to 2924 failed - Killing as fallback
+2023-05-06 00:50:10 - Finished api.exe
+2023-05-19 03:46:01 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\api\server.js --log "api wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-19 03:46:01 - Started 2424
+2023-05-22 02:38:43 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\api\server.js --log "api wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-22 02:38:43 - Started 3016
+2023-05-22 02:50:55 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\api\server.js --log "api wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-22 02:50:55 - Started 5060

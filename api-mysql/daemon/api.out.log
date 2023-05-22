@@ -1,0 +1,16 @@
+[0mGET /products [31m500[0m 704.352 ms - 208[0m
+[0mGET /favicon.ico [33m404[0m 1.506 ms - 45[0m
+[0mGET /products [32m200[0m 426.274 ms - 734[0m
+[0mGET /products [32m200[0m 1187.126 ms - 734[0m
+[0mGET /favicon.ico [33m404[0m 2.254 ms - 45[0m
+[0mGET /products [36m304[0m 4.077 ms - -[0m
+[0mGET /orders/ [32m200[0m 113.176 ms - 232[0m
+[0mPOST /users/login?class=AutenticacaoRestService&method=onAutenticaUsuario&module=mobile [32m200[0m 447.411 ms - 275[0m
+[0mGET /peoples [32m200[0m 60.092 ms - 640[0m
+[0mGET /orders/ [32m200[0m 2.046 ms - 232[0m
+[0mGET / [33m404[0m 0.627 ms - 45[0m
+[0mGET /products [32m200[0m 1053.853 ms - 734[0m
+[0mPOST /users/login?class=AutenticacaoRestService&method=onAutenticaUsuario&module=mobile [32m200[0m 276.216 ms - 275[0m
+[0mGET /peoples [33m401[0m 358.020 ms - 38[0m
+[0mPOST /users/login?class=AutenticacaoRestService&method=onAutenticaUsuario&module=mobile [32m200[0m 392.215 ms - 275[0m
+[0mGET /peoples [32m200[0m 146.876 ms - 640[0m

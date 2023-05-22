@@ -24,5 +24,18 @@ Veremos aqui alguns exemplos de API's desenvolvidas em NodeJs, utilizando bando 
 
 1. ### **Api Firebird**
 
-2. ### Api MySQL
+1. Clone este projeto
+2. cd api-firebird`
+3. `npm install`
+4. `npm start`
 
+
+
+
+
+1. ### Api MySQL
+
+1. Clone este projeto
+2. cd api-firebird`
+3. `npm install`
+4. `npm start`
