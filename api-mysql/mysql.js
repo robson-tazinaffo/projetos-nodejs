@@ -4,7 +4,7 @@ const mysql = require('mysql')
 var pool = mysql.createPool({
     "connectionLimit": 1000,
     "user" : "root",
-    "password" : "Ekt]+c@AQv>ej(FE",
+    "password" : "123456",
     "database" : "ecommerce",
     "host" : "localhost",
     "port" : 3306,
