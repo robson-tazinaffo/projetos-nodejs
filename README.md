@@ -25,10 +25,11 @@ Veremos aqui alguns exemplos de API's e projetos desenvolvidos em NodeJs, utiliz
 
 - ### **Api Firebird**
 
-  1. Clone este projeto
-  2. cd api-firebird
-  3. `npm install`
-  4. `npm start`
+
+1. Clone este projeto
+2. cd api-firebird
+3. npm install
+4. npm start
 
 
 
@@ -37,18 +38,18 @@ Veremos aqui alguns exemplos de API's e projetos desenvolvidos em NodeJs, utiliz
 
 - ### Api MySQL
 
-  1. Clone este projeto
-  2. cd api-mysql
-  3. `npm install`
-  4. `npm start`
 
+1. Clone este projeto
+2. cd api-mysql
+3. npm install
+4. npm start
 
 
 
 - ### Livros
 
-  1. Clone este projeto
-  2. cd livros
-  3. `npm install`
-  4. `npm start`
+1. Clone este projeto
+2. cd livros
+3. npm install
+4. npm start
 
