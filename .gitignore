@@ -10,3 +10,6 @@
 /api-mysql/.vscode
 /api-mysql/uploads/*
 /api-mysql/node_modules/*
+
+
+/livros/node_modules/*
